@@ -19,7 +19,7 @@ This is a privacy-friendly frontend for VirusTotal, a popular online virus scann
 
 ## Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/MugoSquero/LibreTotal`
+1. Clone this repository to your local machine using `git clone https://github.com/leaveret/LibreTotal`
 2. Create a virtual environment and activate it using `python3 -m venv env` and then `source env/bin/activate`
 3. Install the required dependencies using `pip install -r requirements.txt`
 4. Run the development server using `python main.py`
@@ -27,12 +27,12 @@ This is a privacy-friendly frontend for VirusTotal, a popular online virus scann
 
 ## Contribute
 
-1. Fork it ( https://github.com/MugoSquero/LibreTotal/fork ).
+1. Fork it ( https://github.com/leaveret/LibreTotal/fork ).
 2. Create your feature branch (`git checkout -b my-new-feature`).
 3. Stage your files (`git add .`).
 4. Commit your changes (`git commit -am 'Add some feature'`).
 5. Push to the branch (`git push origin my-new-feature`).
-6. Create a new pull request ( https://github.com/MugoSquero/LibreTotal/compare ).
+6. Create a new pull request ( https://github.com/leaveret/LibreTotal/compare ).
 
 ## License
 
